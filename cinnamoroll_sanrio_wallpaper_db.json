@@ -27,29 +27,29 @@
    
     }
   ],
-   "Morex":
+   "More":
   [
     {
       "id":1,
       "title":"Block Blast - Puzzle Games",
       "image":"https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=w240-h480",
-      "link":"https://play.google.com/store/apps/details?id=com.block.juggle"
+      "link":"https://play.google.com/store/apps/details?id=com.block.jugglex"
     },
     {
       "id":2,
       "title":"Crazy Dog",
       "image":"https://play-lh.googleusercontent.com/LemONqmn7v5RUxyyTkJBNNVSz1RmPz__L3yOhz8hcINdYqhxVdMT1gE5ekxB3uALgRw=w240-h480",
-      "link":"https://play.google.com/store/apps/details?id=com.crazydog.android"
+      "link":"https://play.google.com/store/apps/details?id=com.crazydog.androidx"
     },
     {
       "id":3,
       "title":"Stumble Guys",
       "image":"https://play-lh.googleusercontent.com/Oci7f4WR0JShbn-n5hnwubbXaMssleb2b1Dv7AMOzFFcgstIdC9kg-E3LHx3em8RCaLf=w240-h480",
-      "link":"https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies"
+      "link":"https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddiesx"
     }
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Sanrio Cinnamoroll",
@@ -74,7 +74,7 @@
     }
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
